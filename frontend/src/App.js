@@ -439,7 +439,7 @@ export default function App() {
 
           <div className="about-footer">
             <p className="about-footer-text">
-              🌱 Powered by advanced machine learning algorithms | Built for a sustainable future
+              🌱 Powered by  machine learning algorithms | Built for a sustainable future
             </p>
           </div>
         </div>

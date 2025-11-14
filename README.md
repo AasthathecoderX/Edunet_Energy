@@ -62,13 +62,13 @@ SuryaVeda/
     ```
     cd backend
     pip install -r requirements.txt
-    # Additional backend instructions here
+    python app.py
     ```
 
 3. **Frontend (React) Setup**
 
     ```
-    cd ../frontend
+    cd frontend/src
     npm install
     npm start
     # App runs at http://localhost:3000
