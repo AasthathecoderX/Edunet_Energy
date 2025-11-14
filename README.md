@@ -88,11 +88,16 @@ SuryaVeda/
 
 
 
-## 📬 Contact
+## 📬 Output Screenshots 
 
-Project Lead: [AasthathecoderX](https://github.com/AasthathecoderX)
+<img width="1706" height="871" alt="SuryaVeda_frontend-1" src="https://github.com/user-attachments/assets/4bf7a9ba-368e-4fc2-a73d-060ca947cbd2" />
+
+
+
+<img width="1231" height="889" alt="SuryaVeda_frontend-2" src="https://github.com/user-attachments/assets/5b8fe862-edc9-4458-b0bb-12e8c40db5a8" />
 
 ---
+
 
 
 
