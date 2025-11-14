@@ -1,2 +1,98 @@
-# Edunet_Energy
-This repository is for the project SolarSmart based on Energy verticle
+# ☀️ SuryaVeda - SolarSmart
+
+This repository houses **SuryaVeda: AI-Powered Energy Intelligence**, an initiative under the Edunet_Energy program. SuryaVeda delivers predictive analytics for both electricity consumption and solar energy generation—empowering optimized energy management and smarter decision-making for households and organizations. ⚡🔍
+
+---
+
+## 🚀 Features
+
+### Two-Module System
+
+#### 1️⃣ Electricity Consumption Predictor
+- **📊 Input Features:**
+  - Appliance counts (Fan, Refrigerator, AC, TV, Monitor, Motor Pump)
+  - Monthly usage hours
+  - Electricity tariff rate
+  - Month of the year
+- **🎯 Output:**
+  - Predicted monthly consumption (kWh)
+  - Estimated bill amount (₹)
+
+#### 2️⃣ Solar Generation Predictor
+- **☀️ Input Features:**
+  - Geographic coordinates (Latitude, Longitude)
+  - Cloud coverage percentage
+  - Geographic zone (Central, East, North, South, West)
+- **🎯 Output:**
+  - Annual solar generation potential (kWh/year)  
+  - Based on 1kW system capacity
+
+---
+
+
+
+## 📁 Repository Structure
+
+SuryaVeda/
+- ├── 📂 Datasets/ # Sample and processed solar energy datasets
+- ├── 🖥️ backend/ # Backend source code and APIs
+- ├── 💻 frontend/ # React.js frontend (Create React App)
+- └── 📄 README.md # Project documentation
+
+
+## 🛠️ Getting Started
+
+### Requirements
+
+-  Node.js and npm (for React frontend)
+- Python 3.x (for backend)
+- pip (Python), npm (JavaScript)
+
+### 🔧 Installation
+
+1. **Clone the repository**
+
+    ```
+    git clone https://github.com/AasthathecoderX/SuryaVeda.git
+    cd SuryaVeda
+    ```
+
+2. **Backend Setup**
+
+    ```
+    cd backend
+    pip install -r requirements.txt
+    # Additional backend instructions here
+    ```
+
+3. **Frontend (React) Setup**
+
+    ```
+    cd ../frontend
+    npm install
+    npm start
+    # App runs at http://localhost:3000
+    ```
+
+## 🧑‍💻 Usage
+
+- Start the backend server. 
+- Launch the React frontend. 
+- Work with datasets in `/Datasets`. 
+
+## 🧰 Technologies Used
+
+- **Frontend:** React.js 
+- **Backend:** Python 
+- **Data:** Solar energy datasets 
+
+
+
+## 📬 Contact
+
+Project Lead: [AasthathecoderX](https://github.com/AasthathecoderX)
+
+---
+
+
+
